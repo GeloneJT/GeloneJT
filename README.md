@@ -9,9 +9,6 @@
 
 ---
 [![Jelani's github activity graph](https://activity-graph.herokuapp.com/graph?username=GeloneJT&bg_color=ffffff&color=4c689e&line=4c9e68&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)<!--
-**GeloneJT/GeloneJT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Mobile Web Development
 - 🌱 I’m currently learning Advanced Node.js
