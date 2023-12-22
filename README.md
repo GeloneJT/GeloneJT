@@ -8,11 +8,9 @@
 </h3>
 
 ---
-[![Jelani's github activity graph](https://activity-graph.herokuapp.com/graph?username=GeloneJT&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-- 🔭 I’m currently working on Angular SPA Development
-- 🌱 I’m currently learning Angular and Springboot
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on React 18
+- 🌱 I’m currently learning Cyber Security
+- 💬 Ask me about projects I'm working on.
 - 😄 Pronouns: He/HIm
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm an avid Master Grade Gundam model builder in my downtime
