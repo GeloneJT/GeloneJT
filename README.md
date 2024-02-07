@@ -10,7 +10,7 @@
 ---
 
 - 🔭 I’m currently working on React 18
-- 🌱 I’m currently learning Cyber Security
+- 🌱 I’m currently learning and AI and Cyber Security
 - 💬 Ask me about projects I'm working on.
 - 😄 Pronouns: He/HIm
 - ⚡ Fun fact: I'm an avid Master Grade Gundam model builder in my downtime
