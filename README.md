@@ -1,13 +1,13 @@
 <!-- ### Hi there 👋 -->
-<h3 align="center">
+<h3 align="flex">
 
 ---
 
 <a href="https://github.com/GeloneJT/convoychat">
-	<img height="200" width="50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeloneJT&layout=compact&theme=apprentice" />
+	<img width="50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeloneJT&layout=compact&theme=apprentice" />
 <a/>
 <a href="https://github.com/GeloneJT/github-readme-stats">
-	<img height="200" width="50% align="center" src="https://github-readme-stats.vercel.app/api?username=GeloneJT&rank_icon=github&count_private=true&show_icons=true&hide=prs,contribs&include_all_commits=true&theme=apprentice" />
+	<img width="50% align="center" src="https://github-readme-stats.vercel.app/api?username=GeloneJT&rank_icon=github&count_private=true&show_icons=true&hide=prs,contribs&include_all_commits=true&theme=apprentice" />
 <a/>
 </h3>
 
