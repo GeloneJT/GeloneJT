@@ -4,10 +4,13 @@
 ---
 
 <a href="https://github.com/GeloneJT/convoychat">
-	<img width="50% align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeloneJT&layout=compact&theme=apprentice" />
+	<img width="45% align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeloneJT&layout=compact&theme=apprentice" />
 <a/>
+<a>
+	<img width="10% align="center/>
+</a>
 <a href="https://github.com/GeloneJT/github-readme-stats">
-	<img width="50% align="right" src="https://github-readme-stats.vercel.app/api?username=GeloneJT&rank_icon=github&count_private=true&show_icons=true&hide=prs,contribs&include_all_commits=true&theme=apprentice" />
+	<img width="45% align="right" src="https://github-readme-stats.vercel.app/api?username=GeloneJT&rank_icon=github&count_private=true&show_icons=true&hide=prs,contribs&include_all_commits=true&theme=apprentice" />
 <a/>
 </h3>
 
