@@ -1,14 +1,15 @@
 <!-- ### Hi there 👋 -->
-<p align="justify-content-between">
 
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=GeloneJT&rank_icon=github&count_private=true&show_icons=true&hide=prs,contribs&include_all_commits=true&theme=apprentice"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeloneJT&layout=compact&theme=apprentice"/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=GeloneJT&rank_icon=github&count_private=true&show_icons=true&hide=prs,contribs&include_all_commits=true&theme=apprentice" width="50%" height=50%"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeloneJT&layout=compact&theme=apprentice" width="50%" height="50%"/>
 </p>
 
 ---
+
 
 - 🔭 I’m currently working on React 18
 - 🌱 I’m currently learning and AI and Cyber Security
