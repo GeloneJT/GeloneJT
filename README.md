@@ -4,10 +4,10 @@
 ---
 
 <a href="https://github.com/GeloneJT/github-readme-stats">
-	<img src="https://github-readme-stats.vercel.app/api?username=GeloneJT&rank_icon=github&count_private=true&show_icons=true&hide=prs,contribs&include_all_commits=true&theme=apprentice" />
+	<img src="https://github-readme-stats.vercel.app/api?username=GeloneJT&rank_icon=github&count_private=true&show_icons=true&hide=prs,contribs&include_all_commits=true&theme=apprentice" width='50%' />
 <a/>
 <a href="https://github.com/GeloneJT/convoychat">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeloneJT&layout=compact&theme=apprentice" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeloneJT&layout=compact&theme=apprentice" width='50%' />
 <a/>
 </h3>
 
