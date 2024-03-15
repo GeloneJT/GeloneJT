@@ -1,11 +1,11 @@
 <!-- ### Hi there 👋 -->
 
 ---
+<div align="center">
+    	<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeloneJT&layout=compact&theme=apprentice"></a>
+    	<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=GeloneJT&rank_icon=github&count_private=true&show_icons=true&hide=prs,contribs&include_all_commits=true&theme=apprentice"></a>
+</div>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeloneJT&layout=compact&theme=apprentice" width="50%" height="50%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=GeloneJT&rank_icon=github&count_private=true&show_icons=true&hide=prs,contribs&include_all_commits=true&theme=apprentice" width="50%" height=50%"/>
-</p>
 
 ---
 
