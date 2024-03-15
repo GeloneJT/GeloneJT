@@ -2,8 +2,8 @@
 
 ---
 <div align="center">
-    	<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=GeloneJT&rank_icon=github&count_private=true&show_icons=true&hide=prs,contribs&include_all_commits=true&theme=apprentice" style="height: 200px; margin-left: 20px"></a>
-    	<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeloneJT&layout=compact&theme=apprentice" style="height: 200px; margin-right: 20px"></a>
+    	<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeloneJT&layout=compact&theme=apprentice" style="height: 200px; margin-left: 20px"></a>
+    	<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=GeloneJT&rank_icon=github&count_private=true&show_icons=true&hide=prs,contribs&include_all_commits=true&theme=apprentice" style="height: 200px; margin-right: 20px"></a>
 </div>
 
 
