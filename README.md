@@ -1,14 +1,16 @@
 <!-- ### Hi there 👋 -->
 
 ---
-<div style="display: flex;">
-    <div style="flex: 1; margin-right: 10px;">
+<div>
+    <div style="float: left; margin-right: 10px;">
         <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeloneJT&layout=compact&theme=apprentice" style="max-width: 100%; height: 200px;"></a>
     </div>
-    <div style="flex: 1; margin-left: 10px;">
+    <div style="float: left; margin-left: 10px;">
         <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=GeloneJT&rank_icon=github&count_private=true&show_icons=true&hide=prs,contribs&include_all_commits=true&theme=apprentice" style="max-width: 100%; height: 200px;"></a>
     </div>
+    <div style="clear: both;"></div>
 </div>
+
 
 ---
 
