@@ -10,11 +10,11 @@
 ---
 
 
-- 🔭 I’m currently working on React 18 and Python
+- 🔭 I’m currently working on React and LLMs
 - 🌱 I’m currently learning and AI and Cyber Security
 - 💬 Ask me about projects I'm working on.
 - 😄 Pronouns: He/HIm
-- ⚡ Fun fact: I'm an avid Master Grade Gundam model builder in my downtime
+- ⚡ Fun fact: I am a seasoned Magic the Gathering player (competitve/non-competitive) and avid Master Grade Gundam model builder in my downtime
 
 <br>
 
